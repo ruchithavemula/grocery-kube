@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>grocery-backend</name>
 	<description>Demo project for Spring Boot</description>
-	<packaging>war</packaging>
+	
 	<url/>
 	<licenses>
 		<license/>
@@ -53,7 +53,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>grocery-backend</finalName>
+	
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
